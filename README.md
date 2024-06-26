@@ -1,5 +1,4 @@
 # pratice
 this is my first git repository 
 <br>
-author-Kousik
-good
+author-hellogood
